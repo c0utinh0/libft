@@ -6,11 +6,11 @@
 /*   By: dcoutinh <dcoutinh@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/05/17 09:06:39 by dcoutinh          #+#    #+#             */
-/*   Updated: 2022/06/02 11:25:24 by dcoutinh         ###   ########.fr       */
+/*   Updated: 2022/06/14 08:08:08 by dcoutinh         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
+#include "libft.h"
 
 void	*ft_memcpy(void *dst, const void *src, size_t n)
 {
